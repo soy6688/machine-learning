@@ -29,9 +29,6 @@
 
 <br>
 
-<br>
-
-<br>
 
 ## Results
 
