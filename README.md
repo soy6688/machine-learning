@@ -33,9 +33,9 @@
 
 |제목|내용|설명|
 |------|---|---|
-|LightGBM||![image](https://user-images.githubusercontent.com/108558240/201236061-9826e625-5f7e-41f5-bf9d-d3fd54d1f751.png)
+|LightGBMregressor||![image](https://user-images.githubusercontent.com/108558240/201236061-9826e625-5f7e-41f5-bf9d-d3fd54d1f751.png)
 
-|RandomForest||![image](https://user-images.githubusercontent.com/108558240/201236085-1cabe93b-4f99-473e-86b2-4594d9481860.png)
+|RandomForestregressor||![image](https://user-images.githubusercontent.com/108558240/201236085-1cabe93b-4f99-473e-86b2-4594d9481860.png)
 
 
 
